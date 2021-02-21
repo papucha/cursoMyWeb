@@ -12,3 +12,13 @@ P {color:red;
    text-align:left;
    text-indent:30px;
   }
+
+  a {
+    color: hotpink;
+  }
+
+  /* visited link */
+a:visited {
+    color: green;
+  }
+  
