@@ -1,0 +1,11 @@
+
+
+$primary: #ff7f00;
+$black2: #495957;
+
+@import 'bootstrap/bootstrap.scss';
+body {
+    background:#fff;
+    color: $black2;
+}
+
